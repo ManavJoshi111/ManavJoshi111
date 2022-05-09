@@ -1,4 +1,4 @@
-Hi 👋 My name is Manav Joshi
+Hi 👋 I'm Manav Joshi
 ============================
 
 I am a Web Developer
