@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">, I'm Manav Joshi
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">, I'm Manav Joshi
 ============================
 
 I am a Web Developer
