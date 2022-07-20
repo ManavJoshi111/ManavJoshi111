@@ -1,4 +1,5 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I'm Manav Joshi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Rajveer+Rathod%27s+GitHub+Profile)](https://git.io/typing-svg)
 ============================
 
 I am a Web Developer
