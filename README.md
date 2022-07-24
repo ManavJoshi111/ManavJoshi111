@@ -9,7 +9,7 @@ I am a Web Developer
 I am an enthusiastic tech geek who finds problem-solving and web development very interesting. I currently studying computer engineering at BVM Engineering College, Anand Thank You : )
 
 * 🌍  I'm based in Idar
-* 🖥️  See my portfolio at [tinyurl.com/meManav](https://bit.ly/meManav)
+* 🖥️  See my portfolio at [bit.ly/meManav](https://bit.ly/meManav)
 * ✉️  You can contact me at [manavjoshi154@gmail.com](mailto:manavjoshi154@gmail.com)
 * 🧠  I'm learning React and Node JS
 
