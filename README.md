@@ -1,6 +1,6 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">,
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=800&lines=I'm+Manav+Joshi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=29&multiline=true&width=800&lines=I'm+Manav+Joshi)](https://git.io/typing-svg)
 ============================
 
 I am a Web Developer
