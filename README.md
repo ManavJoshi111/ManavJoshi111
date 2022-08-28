@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manav H Joshi</h1>
 <h3 align="center">An enthusiastic Tech Geek having deep interest in Web development and problem solving...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavjoshi111" alt="manavjoshi111" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack.**
 
