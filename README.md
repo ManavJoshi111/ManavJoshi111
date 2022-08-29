@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, React and Management.**
 
-- 📫 You can react me at **manavjoshi154@gmail.com**
+- 📫 Reach me out at **manavjoshi154@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
