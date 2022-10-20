@@ -6,7 +6,7 @@
 
 - 👨‍💻 See my portfolio at [bit.ly/meManav](bit.ly/meManav)
 
-- 💬 Ask me about **JavaScript, React and Management.**
+- 💬 Ask me about **JavaScript, React.**
 
 - 📫 Reach me out at **manavjoshi154@gmail.com**
 
