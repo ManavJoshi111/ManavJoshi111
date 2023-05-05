@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Web Development and Problem Solving...</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 See my portfolio at [bit.ly/meManav](bit.ly/meManav)
 
