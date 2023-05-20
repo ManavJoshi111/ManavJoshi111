@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👨‍💻 See my portfolio at [bit.ly/meManav](bit.ly/meManav)
+- 👨‍💻 See my portfolio at [bit.ly/meManav](https://bit.ly/meManav)
 
 - 💬 Ask me about **JavaScript, React.**
 
