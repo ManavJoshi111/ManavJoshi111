@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manav H Joshi</h1>
-<h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Web Development and Problem Solving...</h3>
+<h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Web Development and Problem Solving.</h3>
 
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **NEXT JS and TypeScript**
 
 - 👨‍💻 See my portfolio at [bit.ly/meManav](https://bit.ly/meManav)
 
