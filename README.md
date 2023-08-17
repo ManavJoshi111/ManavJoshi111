@@ -1,7 +1,13 @@
-<h2 align="center">Hey 👋! I am Manav Joshi</h2>
+<h1 align="center">Hi 👋, I'm Manav H Joshi</h1>
+<h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
 
-###
 
+- 🌱 I’m currently learning **NEXT JS and TypeScript**
+- 👨‍💻 See my portfolio at [bit.ly/meManav](https://bit.ly/meManav)
+- 💬 Ask me about **JavaScript, React.**
+- 📫 Reach me out at **manavjoshi154@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,14 +54,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavjoshi111&show_icons=true&locale=en&layout=compact" alt="manavjoshi111" /></p>
