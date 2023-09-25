@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manav H Joshi</h1>
-<h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
-
+<div align="center">  
+  <h1>Hi 👋, I'm Manav H Joshi</h1>
+  <h3>An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
+</div>
 - 🎓 Final Year Student at BVM Engineering College, Vallabh Vidyanagar, Anand
 - 🔜 Upcoming Full Stack Intern @SocialPilot
 - 💼 Ex. Web Developer(Intern) @Internauts Infotech
