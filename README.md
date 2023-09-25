@@ -11,7 +11,7 @@
 - 💻 I have a good hand on **MERN Stack, Tailwind CSS & Bootstrap**
 - 💻 I have worked with PHP, MySQL
 - 💻 I have solved 600+ questions of DSA on various coding platforms
-- 👨‍💻 See my portfolio at bit.ly/meManav
+- 👨‍💻 See my portfolio at https://bit.ly/meManav
 - 📧 Reach me out at manavjoshi154@gmail.com
   
 <h3 align="left">Languages and Tools:</h3>
