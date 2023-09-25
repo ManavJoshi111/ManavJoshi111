@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manav H Joshi</h1>
 <h3 align="center">An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
 
-
-- 🌱 I’m currently learning **NEXT JS and TypeScript**
-- 👨‍💻 See my portfolio at [bit.ly/meManav](https://bit.ly/meManav)
-- 💬 Ask me about **JavaScript, React.**
-- 📫 Reach me out at **manavjoshi154@gmail.com**
-
+- 🎓 Final Year Student at BVM Engineering College, Vallabh Vidyanagar, Anand
+- 🔜 Upcoming Full Stack Intern @SocialPilot
+- 💼 Ex. Web Developer(Intern) @Internauts Infotech
+- 💼 Ex. Web Developer(Intern) @ThinkBeat Solutions
+- 🚀 Ex. Lead @GDSC BVM
+- 📚 I’m currently learning **NEXTJS and TypeScript**
+- 🔍 I’m currently looking for Open Source Contributions
+- 💻 I have a good hand on **MERN Stack, Tailwind CSS & Bootstrap**
+- 💻 I have worked with PHP, MySQL
+- 💻 I have solved 600+ questions of DSA on various coding platforms
+- 👨‍💻 See my portfolio at bit.ly/meManav
+- 📧 Reach me out at manavjoshi154@gmail.com
+  
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
