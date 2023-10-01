@@ -14,7 +14,7 @@
   - 💻 I have worked with PHP, MySQL
   - 💻 I have solved 600+ questions of DSA on various coding platforms
   - 👨‍💻 See my portfolio at https://bit.ly/meManav
-  - 📧 Reach me out at manavjoshi154@gmail.com
+  - 📧 Reach me out at manavjoshi154+github_readme@gmail.com
   
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
