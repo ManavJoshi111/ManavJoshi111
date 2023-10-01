@@ -3,7 +3,7 @@
   <h3>An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
 </div>
 
-  - 🎓 Final Year Student at BVM Engineering College, Vallabh Vidyanagar, Anand
+  - 🎓 Computer Engineering(Final Year) Student at BVM Engineering College, Vallabh Vidyanagar, Anand
   - 🔜 Upcoming Full Stack Intern @SocialPilot
   - 💼 Ex. Web Developer(Intern) @Internauts Infotech
   - 💼 Ex. Web Developer(Intern) @ThinkBeat Solutions
