@@ -4,7 +4,7 @@
 </div>
 
   - 🎓 Computer Engineering(Final Year) Student at BVM Engineering College, Vallabh Vidyanagar, Anand
-  - 🔜 Upcoming Full Stack Intern @SocialPilot
+  - 🔜 Full Stack Intern @SocialPilot
   - 💼 Ex. Web Developer(Intern) @Internauts Infotech
   - 💼 Ex. Web Developer(Intern) @ThinkBeat Solutions
   - 🚀 Ex. Lead @GDSC BVM
