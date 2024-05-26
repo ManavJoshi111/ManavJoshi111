@@ -3,12 +3,11 @@
   <h3>An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
 </div>
 
-  - 👨‍💻 Currently working on [Curio](https://github.com/ManavJoshi111/curio)
-  - 🎓 Computer Engineering(Final Year) Student at BVM Engineering College, Vallabh Vidyanagar, Anand
   - 💼 Full Stack Intern @SocialPilot
+  - 🎓 Computer Engineering from BVM Engineering College, Anand
+  - 🚀 Ex. Lead @GDSC BVM
   - 💼 Ex. Web Developer(Intern) @Internauts Infotech
   - 💼 Ex. Web Developer(Intern) @ThinkBeat Solutions
-  - 🚀 Ex. Lead @GDSC BVM
   - 💻 I have a good hand on **MERN Stack, Tailwind CSS & Bootstrap**
   - 💻 I have worked with PHP, MySQL
   - 💻 I have solved 600+ questions of DSA on various coding platforms
