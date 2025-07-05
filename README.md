@@ -3,11 +3,12 @@
   <h3>An Enthusiastic Tech Geek Having Deep Interest in Programming & Problem Solving.</h3>
 </div>
 
-  - 💼 Full Stack Intern @SocialPilot
-  - 🎓 Computer Engineering from BVM Engineering College, Anand
+  - 💼 Software Engineer @iBASEt
+  - 💼 Ex. Junior Full Stack Developer @SocialPilot
   - 🚀 Ex. Lead @GDSC BVM
   - 💼 Ex. Web Developer(Intern) @Internauts Infotech
   - 💼 Ex. Web Developer(Intern) @ThinkBeat Solutions
+  - 🎓 Studied Computer Engineering from BVM Engineering College, Anand
   - 💻 I have a good hand on **MERN Stack, Tailwind CSS & Bootstrap**
   - 💻 I have worked with PHP, MySQL
   - 💻 I have solved 600+ questions of DSA on various coding platforms
