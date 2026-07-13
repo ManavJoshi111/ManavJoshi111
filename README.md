@@ -12,7 +12,7 @@
   - 💻 I have a good hand on **MERN Stack, Tailwind CSS & Bootstrap**
   - 💻 I have worked with PHP, MySQL
   - 💻 I have solved 600+ questions of DSA on various coding platforms
-  - 👨‍💻 See my portfolio at [https://bit.ly/meManav](https://manavjoshi.netlify.app/?utm_source=github&utm_medium=profile)
+  - 👨‍💻 See my [portfolio](https://manavjoshi.netlify.app/?utm_source=github&utm_medium=profile)
   - 📧 Reach me out at manavjoshi154+github_readme@gmail.com
   
 <br/>
